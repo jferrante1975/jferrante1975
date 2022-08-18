@@ -1,5 +1,7 @@
 ### Hola soy Javier Ferrante 👋
 
+- Actualmente trabajo en Nextbyn, una empresa de desarrollo de software para consumo masivo.
+- Me estoy capacitando en Digital House, realizando el curso de Full Stack.
 <!--
 **jferrante1975/jferrante1975** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
